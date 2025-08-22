@@ -11,7 +11,6 @@ This repository contains a  clone of the Amazon India homepage, built using HTML
 * **Navigation Bar:** A secondary navigation bar with categories like "Today's Deals," "Customer Service," and "Gift Cards."
 * **Main Content Area:** A hero section with a dynamic image slider, followed by product category cards.
 * **Footer Section:** Replicates the detailed footer with multiple columns for "Get to Know Us," "Connect with Us," "Make Money with Us," and "Let Us Help You."
-* **Responsive Design:** (Optional - add this if you've made it responsive) The layout is designed to be responsive, adapting to different screen sizes for a seamless user experience on both desktop and mobile devices.
 
 ## 💻 Technologies Used
 
